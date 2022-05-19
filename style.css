@@ -1,0 +1,19 @@
+.imghdr {
+    width: 800px !important;
+    height: 266px !important;
+}
+
+.imgpfp {
+    width: 180px !important;
+    height: 180px !important;
+}
+
+input[type="file"] {
+}
+
+.-mt-pfp {
+    margin-top: -5.7rem;
+}
+.ml-pfp {
+    margin-left: 1.63rem;
+}
